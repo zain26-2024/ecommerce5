@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "JF Flat Regular";
+    font-family:"JF Flat Regular";
     src:url(../fonts/JF-Flat-regular.eot);
     src:url(../fonts/JF-Flat-regular.eot?#iefix) format('embedded-opentype'),
         url('../fonts/JF-Flat-regular.svg#JF Flat Regular') format('svg'),
@@ -7,11 +7,11 @@
         url(../fonts/JF-Flat-regular.ttf) format('truetype');
 
         font-weight: bolder;
-        font-size:normal;
+        font-style:normal;
 }
 
 body{
-  font-family: " JF Flat Regular ",'Segoe UI', Tahoma, Geneva, sans-serif;
+  font-family: " JF Flat Regular ",'Segoe UI', Tahoma, Geneva, verdana, sans-serif;
   font-size: 14px;
   line-height: 1.5;
   color: black;
